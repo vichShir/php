@@ -1,3 +1,5 @@
 <?php
 
-echo "<strong>Hello World!</strong> by vichShir";
+    echo "<strong>Olá mundo!</strong> por vichShir";
+
+?>
